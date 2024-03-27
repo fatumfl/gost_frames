@@ -12,6 +12,6 @@
 1. Скачать и установить шрифт: 📄[GOSTRUS](https://fontlibrary.org/ru/font/gostrus-type-a)
 > При остутствии шрифта в системе, _**draw.io**_ откатывается к _Times New Roman_.
 2. Для изменения данных в рамке открыть редактор метаданных:
-![Edit Data Button](https://imgur.com/Gi8PdG1 "Edit Data Button")
+![Edit Data Button](https://imgur.com/Gi8PdG1.jpg "Edit Data Button")
 3. Заполнить необходимые поля:
-![Edit Data Example](https://imgur.com/1brdOtW "Edit Data Example")
+![Edit Data Example](https://imgur.com/1brdOtW.jpg "Edit Data Example")
